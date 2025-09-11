@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Nagyi5
 - 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning web-development.
